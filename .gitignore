@@ -6,6 +6,6 @@ __pycache__/
 *.pyc
 venv/
 env/
-data.csv
+
 *.joblib
 metrics.json
